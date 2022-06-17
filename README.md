@@ -23,6 +23,6 @@ import requests
 #r = requests.get('https://fakestoreapi.com/carts/5')
 #print(r.json())
 
-print(requests.get('http://fakestoreapi.com/products'))
-r = requests.get('http://fakestoreapi.com/products')
-print(r.json())
+    print(requests.get('http://fakestoreapi.com/products'))
+    r = requests.get('http://fakestoreapi.com/products')
+    print(r.json())
