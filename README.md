@@ -3,7 +3,8 @@
     import requests
     
     
-    print(requests.get('https://fakestoreapi.com/'))
+    
+      >>> print(requests.get('https://fakestoreapi.com/'))
 
     print(requests.get('http://fakestoreapi.com/docs'))
 
